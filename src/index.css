@@ -4,11 +4,15 @@
 @tailwind components;
 @tailwind utilities;
 
+html {
+    scrollbar-width: thin;
+}
+
 body {
     width: 100dvw;
     overflow-x: hidden;
     background-color: #dfdff0;
-    font-family: "General Sans", sans-serif;
+
 }
 
 @layer base {
