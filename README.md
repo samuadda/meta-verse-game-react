@@ -62,10 +62,10 @@ meta-verse-game-react/
 ├── dist/                 # Build output (for deployment)
 ├── public/               # Static assets
 ├── src/
-│   ├── components/       # Reusable UI components
-│   ├── sections/         # Page sections (Hero, About, etc.) if used
-│   ├── assets/           # Images / videos
+│   ├── components/               
 │   ├── App.jsx
+│   ├── App.css
+│   ├── index.css
 │   └── main.jsx
 ├── index.html
 ├── package.json
