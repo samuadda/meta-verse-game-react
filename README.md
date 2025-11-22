@@ -115,7 +115,7 @@ npm run preview
 
 - Good understanding of responsive design and component-based architecture
 
-📬 Contact
+## 📬 Contact
 
 Twitter(X) : [@samuadda](https://x.com/samuadda)
 
